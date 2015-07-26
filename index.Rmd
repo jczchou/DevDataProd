@@ -1,0 +1,26 @@
+---
+title       : Slidify for Johns Hopkins Coursera - Developing Data Products
+subtitle    : Shiny Presto
+author      : Jay Chou
+job         : student
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Summary
+
+This projects shows the racial makeup of the US by county. The user can choose what race to view, and the resulting map shows what % each county and state has by race 
+
+--- .class #id 
+
+## Slide 2
+<b> hover</b>
+
+<I>The mouse over shows the coordinates on the map, it is meant to show the county value of where the mouse appears. It will be fixed in the next iteration.
+---
+
+
