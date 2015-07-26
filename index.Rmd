@@ -18,9 +18,26 @@ This projects shows the racial makeup of the US by county. The user can choose w
 --- .class #id 
 
 ## Slide 2
-<b> hover</b>
+<b>How to use</b>
 
-<I>The mouse over shows the coordinates on the map, it is meant to show the county value of where the mouse appears. It will be fixed in the next iteration.
+<I>Select the race you want to see for each state/county (White, Hispanic, Black, Asian). The slider shows the range of racial makeup you want to see, from 0 to 100% </I>
+---
+
+## Slide 3
+<b>hover</b>
+
+<I>The mouse over shows the coordinates on the map, it is meant to show the county value of where the mouse appears. It will be fixed in the next iteration. </I>
+---
+
+## Slide 4
+<b> Add'l Data Possible Analysis</b>
+
+<I>Voting patterns, GDP can also be tied to the data by county. So we can see correlation between race, income, and political affiliation</I>
 ---
 
 
+## Slide 5
+<b> Alternative Methods</b>
+the "maps" package is just one of many ways to put data on maps. Googlevis is another
+<I></I>
+---
