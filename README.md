@@ -1,31 +1,25 @@
 ---
 title: "README"
 author: "Jay Chou"
-date: "July 26, 2015"
+date: "July 25, 2015"
 output: slidy_presentation
 ---
 
-## R Markdown
+## Summary
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This projects shows the racial makeup of the US by county. The user can choose what race to view, and the resulting map shows what % each county and state has by race <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
 
 ## Slide with Bullets
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- By race
+- By county
 
 ## Slide with R Code and Output
 
 ```{r}
-summary(cars)
+summary(counties)
 ```
 
-## Slide with Plot
 
-```{r, echo=FALSE}
-plot(cars)
-```
 
